@@ -1,5 +1,5 @@
 # soundwave-app
-An Spotify like app created after tutorials by Dev Ed &amp; Web Dev Simplified
+A Spotify like app created after tutorials by Dev Ed &amp; Web Dev Simplified
 
 Dev Ed designed the project in Figma <br>
 https://www.youtube.com/watch?v=FK4YusHIIj0&t=0s&ab_channel=DevEd
